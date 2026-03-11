@@ -134,10 +134,3 @@ You will also need:
 
 ---
 
-# Setup Guide
-
-## Clone the Repository
-
-```bash
-git clone https://github.com/39WA/devsecops-pipeline-project-1.git
-cd devsecops-pipeline-project-1
